@@ -13,55 +13,55 @@ const Sdata = [
     imgsrc: ecom,
     title: "Still on process of makeing it",
     content: "Redux, Firebase, React, Antdesign & Bootstrap4 with all functionality website",
-    link:"https://github.com/Dhanupractical/Keeper-app"
+    link:"https://github.com/Dhanupractical/E-com"
   },
   {
     imgsrc: portfolio2,
     title: "Portfolio",
     content:"Routes, react & bootstrap  portfolio website with simple transformation",
-    link:"https://www.youtube.com/watch?v=mdO18zv3oGQ"
+    link:"https://github.com/Dhanupractical/Portfolio2-website"
   },
   {
     imgsrc: portfolio1,
     title: "Portfolio",
     content:"React-bootstrap website with particle and typed animations",
-    link:""
+    link:"https://github.com/Dhanupractical/portfolio1"
   },
   {
     imgsrc: bootstrap4,
     title: "Gallery website",
     content:"Website useing raw html and bootstrap 4, completely responsive",
-    link:""
+    link:"https://github.com/Dhanupractical/Gallery-website"
   },
   {
     imgsrc: login,
     title: "LogIn,SignUp & Update",
     content:"Private routing(will show few pages only for authenticated users)",
-    link:""
+    link:"https://github.com/Dhanupractical/Private-routing-project"
   },
   {
     imgsrc: form,
     title: "Form verification",
     content:"Custom hooks for form verification & css gradient colors(not responsive)",
-    link:""
+    link:"https://github.com/Dhanupractical/Form-verification"
   },
   {
     imgsrc: keeper,
     title: "CRUD App",
     content:"CRUD with react, props, form handling with simple UI",
-    link:""
+    link:"https://github.com/Dhanupractical/keepr-aap-final-project"
   },
   {
     imgsrc: mushroom,
     title: "Mushroom website",
     content:"simple single page html & css responsive website",
-    link:""
+    link:"https://github.com/Dhanupractical/mini-project"
   },
   {
     imgsrc: drum,
     title: "Drum Kit",
     content:"HTML, CSS & JAVASCRIPT website with event listeners for keys and mouse click",
-    link:""
+    link:"https://github.com/Dhanupractical/Drum-Kit"
   },
 ];
 
