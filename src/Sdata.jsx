@@ -13,7 +13,7 @@ const Sdata = [
     imgsrc: ecom,
     title: "Still on process of makeing it",
     content: "Redux, Firebase, React, Antdesign & Bootstrap4 with all functionality website",
-    link:"https://github.com/Dhanupractical/E-com"
+    link:"https://github.com/Dhanupractical/E-com-inbetween-upload"
   },
   {
     imgsrc: portfolio2,
